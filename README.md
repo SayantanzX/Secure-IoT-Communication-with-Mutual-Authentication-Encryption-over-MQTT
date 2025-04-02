@@ -1,1 +1,1 @@
-# Device-Authentication-using-Secure-IoT-Blockchain-ML
+# Secure IoT Communication with Mutual Authentication &  Encryption over MQTT
